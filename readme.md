@@ -17,7 +17,7 @@ Items necesarios:
 - Realizar backend logico que necesitara cada clase para implementarse en un archivo principal.
 
 ## Diagrama de clases
-![Diagrama de clases](/DiagramaClases.jpg)
+![Diagrama de clases](/diagrama.jpg)
 ## Contenido
 
 Encuesta predefinida, interactiva con el usuario:
